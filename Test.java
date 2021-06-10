@@ -4,5 +4,6 @@ class Test{
  System.out.println("Git Demo");
  
  System.out.println("demo GitRepository");
+ System.out.print("New code add");
  }
 }
